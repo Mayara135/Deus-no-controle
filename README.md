@@ -1,2 +1,2 @@
-# Deus-no-controle
-Plano de estudo, voltando a programar
+# Dia um
+Plano de estudo, iniciando a programação
